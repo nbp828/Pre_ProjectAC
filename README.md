@@ -2,7 +2,8 @@
 By: Neil Patel (nbpatel6@illinois.edu)
 
 ## Introduction
-This pre-project is using option A to setup the final project. 
+This pre-project is eventually for option C but it is using option A
+ to setup the final project. 
 The final goal is to use a searching system for food ingredient data. 
 The setup from project A will help extend the search to food ingredients
 
@@ -12,6 +13,8 @@ The setup from project A will help extend the search to food ingredients
 -   Website:
     - The Web Application is built with django and python and
     the elasticsearch python client
+    - Django was chosen over Flask because it is a bit more 
+    robust for a customer facing application
 
 ## Future Work
 The food ingredients application will allow the user to:
