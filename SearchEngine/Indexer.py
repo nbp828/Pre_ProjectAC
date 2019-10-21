@@ -1,5 +1,5 @@
 from elasticsearch import Elasticsearch
-import DocumentReader
+from SearchEngine import DocumentReader
 
 doc_reader = DocumentReader.DocumentReader()
 doc_reader.load_docs()

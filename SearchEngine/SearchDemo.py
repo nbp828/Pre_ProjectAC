@@ -1,6 +1,5 @@
 from datetime import datetime
 from elasticsearch import Elasticsearch
-import DocumentReader
 
 # doc_reader = DocumentReader.DocumentReader()
 # doc_reader.load_docs()
