@@ -24,4 +24,4 @@ The food ingredients application will allow the user to:
 
 ## Demo
 The demo is hosted in Azure. Use the following link to test the system.
-
+http://nbpatel6-demo-search.azurewebsites.net/
